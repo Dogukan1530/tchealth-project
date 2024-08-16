@@ -1,0 +1,388 @@
+{
+"Illness":[
+ {
+  "code": 301,
+  "name": "Minor Gynaecological Surgery"
+ },
+ {
+  "code": 302,
+  "name": "Assisted Reproductive services or infertility treatments"
+ },
+ {
+  "code": 303,
+  "name": "Pregnancy related services including Obstetrics"
+ },
+ {
+  "code": 304,
+  "name": "Eye – Laser Surgery refractive"
+ },
+ {
+  "code": 305,
+  "name": "Eye – Cataracts"
+ },
+ {
+  "code": 306,
+  "name": "Eye – Glaucoma"
+ },
+ {
+  "code": 309,
+  "name": "Cardiac (heart and artery)"
+ },
+ {
+  "code": 310,
+  "name": "Psychiatric"
+ },
+ {
+  "code": 311,
+  "name": "Rehabilitation"
+ },
+ {
+  "code": 313,
+  "name": "Surgical Podiatry"
+ },
+ {
+  "code": 314,
+  "name": "Dialysis for chronic renal failure"
+ },
+ {
+  "code": 315,
+  "name": "Chemotherapy"
+ },
+ {
+  "code": 318,
+  "name": "Teeth\/Dental"
+ },
+ {
+  "code": 319,
+  "name": "Palliative care"
+ },
+ {
+  "code": 320,
+  "name": "Medical admission"
+ },
+ {
+  "code": 321,
+  "name": "Gastric Banding and all obesity related treatment"
+ },
+ {
+  "code": 322,
+  "name": "Bone Marrow transfusion or transplant (autologous and allogeneic incl harvesting, cryopreservation)"
+ },
+ {
+  "code": 323,
+  "name": "Spinal Fusion"
+ },
+ {
+  "code": 324,
+  "name": "Back and spinal surgery excluding spinal fusion surgery"
+ },
+ {
+  "code": 330,
+  "name": "Endoscopy including Colonoscopy and gastroscopy"
+ },
+ {
+  "code": 331,
+  "name": "Cystoscopy"
+ },
+ {
+  "code": 333,
+  "name": "Oesophagoscopy"
+ },
+ {
+  "code": 334,
+  "name": "Shoulder arthroscopy and selected minor shoulder procedures"
+ },
+ {
+  "code": 335,
+  "name": "Ankle arthroscopy and ankle ligament repair"
+ },
+ {
+  "code": 336,
+  "name": "Knee arthroscopy and meniscectomy"
+ },
+ {
+  "code": 341,
+  "name": "Joint replacement – Hip"
+ },
+ {
+  "code": 342,
+  "name": "Joint replacement – Knee"
+ },
+ {
+  "code": 343,
+  "name": "Joint replacement – Shoulder"
+ },
+ {
+  "code": 344,
+  "name": "Joint replacement – Other"
+ },
+ {
+  "code": 347,
+  "name": "Appendicitis"
+ },
+ {
+  "code": 350,
+  "name": "Lithotripsy"
+ },
+ {
+  "code": 351,
+  "name": "Insulin Pumps"
+ },
+ {
+  "code": 360,
+  "name": "Sleep Studies"
+ },
+ {
+  "code": 361,
+  "name": "Removal of Tonsils and Adenoids"
+ },
+ {
+  "code": 370,
+  "name": "Plastic and reconstructive surgery"
+ },
+ {
+  "code": 375,
+  "name": "Cosmetic"
+ },
+ {
+  "code": 376,
+  "name": "Abdominoplasty"
+ },
+ {
+  "code": 377,
+  "name": "Blepharoplasty"
+ },
+ {
+  "code": 378,
+  "name": "Breast Augumentation\/Reduction"
+ },
+ {
+  "code": 379,
+  "name": "Labioplasty\/vulvoplasty"
+ },
+ {
+  "code": 380,
+  "name": "Lipectomy"
+ },
+ {
+  "code": 381,
+  "name": "Liposuction"
+ },
+ {
+  "code": 382,
+  "name": "Penile Enlargements"
+ },
+ {
+  "code": 383,
+  "name": "Ptosis of skin"
+ },
+ {
+  "code": 384,
+  "name": "Rhinoplasty"
+ },
+ {
+  "code": 385,
+  "name": "Surgical face lifts"
+ },
+ {
+  "code": 390,
+  "name": "Sterilisation"
+ },
+ {
+  "code": 393,
+  "name": "Brain Surgery"
+ },
+ {
+  "code": 394,
+  "name": "Vascular Surgery"
+ },
+ {
+  "code": 395,
+  "name": "Organ Transplant"
+ },
+ {
+  "code": 399,
+  "name": "Unknown or Other Surgery"
+ },
+ {
+  "code": 400,
+  "name": "Miscarriage and termination of pregnancy"
+ },
+ {
+  "code": 401,
+  "name": "Gynaecology"
+ },
+ {
+  "code": 402,
+  "name": "Assisted reproductive services"
+ },
+ {
+  "code": 403,
+  "name": "Pregnancy and birth"
+ },
+ {
+  "code": 404,
+  "name": "Male reproductive system"
+ },
+ {
+  "code": 405,
+  "name": "Cataracts"
+ },
+ {
+  "code": 406,
+  "name": "Eye (not cataracts)"
+ },
+ {
+  "code": 407,
+  "name": "Eye – Laser"
+ },
+ {
+  "code": 408,
+  "name": "Lung and chest"
+ },
+ {
+  "code": 409,
+  "name": "Heart and vascular system"
+ },
+ {
+  "code": 410,
+  "name": "Hospital psychiatric services"
+ },
+ {
+  "code": 411,
+  "name": "Rehabilitation"
+ },
+ {
+  "code": 412,
+  "name": "Palliative care"
+ },
+ {
+  "code": 413,
+  "name": "Kidney and bladder"
+ },
+ {
+  "code": 414,
+  "name": "Dialysis for chronic kidney failure"
+ },
+ {
+  "code": 415,
+  "name": "Chemotherapy, radiotherapy and immunotherapy for cancer"
+ },
+ {
+  "code": 416,
+  "name": "Blood"
+ },
+ {
+  "code": 417,
+  "name": "Bone marrow transfusion or transplant"
+ },
+ {
+  "code": 418,
+  "name": "Dental surgery"
+ },
+ {
+  "code": 419,
+  "name": "Podiatric surgery (provided by a registered podiatric surgeon)"
+ },
+ {
+  "code": 420,
+  "name": "Medical admission (unknown)"
+ },
+ {
+  "code": 423,
+  "name": "Back, neck and spine"
+ },
+ {
+  "code": 424,
+  "name": "Bone, joint and muscle"
+ },
+ {
+  "code": 425,
+  "name": "Joint reconstructions"
+ },
+ {
+  "code": 426,
+  "name": "Joint replacements – other"
+ },
+ {
+  "code": 427,
+  "name": "Joint replacements (hip and knee)"
+ },
+ {
+  "code": 430,
+  "name": "Gastrointestinal endoscopy"
+ },
+ {
+  "code": 431,
+  "name": "Hernia and appendix"
+ },
+ {
+  "code": 432,
+  "name": "Digestive system"
+ },
+ {
+  "code": 433,
+  "name": "Weight loss surgery"
+ },
+ {
+  "code": 441,
+  "name": "Pain management"
+ },
+ {
+  "code": 442,
+  "name": "Pain management with device"
+ },
+ {
+  "code": 451,
+  "name": "Insulin pumps"
+ },
+ {
+  "code": 452,
+  "name": "Diabetes management (excluding insulin pumps)"
+ },
+ {
+  "code": 460,
+  "name": "Sleep studies"
+ },
+ {
+  "code": 461,
+  "name": "Tonsils, adenoids and grommets"
+ },
+ {
+  "code": 462,
+  "name": "Ear, nose and throat"
+ },
+ {
+  "code": 463,
+  "name": "Implantation of hearing devices"
+ },
+ {
+  "code": 470,
+  "name": "Plastic and reconstructive surgery (medically necessary)"
+ },
+ {
+  "code": 471,
+  "name": "Skin"
+ },
+ {
+  "code": 475,
+  "name": "Cosmetic surgery"
+ },
+ {
+  "code": 478,
+  "name": "Breast surgery (medically necessary)"
+ },
+ {
+  "code": 493,
+  "name": "Brain and nervous system"
+ },
+ {
+  "code": 495,
+  "name": "Organ transplant"
+ },
+ {
+  "code": 499,
+  "name": "Unknown or other surgery"
+ }
+]
+}
